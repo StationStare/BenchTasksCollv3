@@ -1,36 +1,7 @@
 # Final Pool
 
 This directory contains the implemented tasks gathered from the developer branches.
-Each task satisfies the requirements defined in tasks/examples (non-empty, English docs/task.md and docs/agent_system_prompt.md, plus an evaluation script).
+Each task satisfies the requirements defined in tasks/examples: a non-empty, English docs/task.md and docs/agent_system_prompt.md plus an evaluation script.
 
 Implemented tasks:
-- analytics-dashboard
-- cache-optimizer
-- certificate-manager
-- client-portal
-- customer-feedback-processor
-- customer-portal
-- discount-calculator
-- error-tracker
-- expense-tracker
-- health-monitor
-- help-desk
-- inventory-management
-- log-analyzer
-- loyalty-program
-- media-organizer
-- price-tracker
-- robots-handler
-- scheduler
-- shipment-tracker
-- sitemap-generator
-- social-connector
-- status-checker
-- storage-manager
-- streaming-service
-- survey-builder
-- sync-service
-- tag-manager
-- task-scheduler
-- territory-manager
-- web-crawler
+activity-logger, alert-system, analytics-dashboard, asset-optimizer, backup-utility, blog-engine, booking-system, cache-optimizer, calendar-sync, canvas-automation, canvas-grade-automation, certificate-manager, chat-bot, cms-builder, client-portal, contact-manager, content-manager, content-scheduler, coupon-manager, crm-system, customer-feedback-processor, customer-portal, data-analytics, data-validator, deal-manager, deployment-tool, discount-calculator, email-campaign, email-classification-system, error-tracker, expense-tracker, feedback-collector, file-manager, follow-up-reminder, form-builder, health-monitor, help-desk, image-processor, inventory-management, invoice-generator, load-balancer, log-analyzer, loyalty-program, media-organizer, monitoring-agent, network-analyzer, order-processor, payment-processor, pdf-report-generator, permission-manager, personalization-service, price-tracker, product-catalog, qr-generator, reminder-service, robots-handler, sales-pipeline, scheduler, search-engine, security-scanner, sentiment-analyzer, shipment-tracker, sitemap-generator, social-connector, social-publisher, status-checker, storage-manager, streaming-service, subtitle-generator, survey-builder, sync-service, tag-manager, task-scheduler, template-engine, territory-manager, translation-api, video-trimmer, voice-processor, web-crawler.
